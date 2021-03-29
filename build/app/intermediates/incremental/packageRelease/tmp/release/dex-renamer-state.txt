@@ -1,0 +1,4 @@
+#Sun Dec 06 08:13:43 CST 2020
+base.0=/Users/xupeng/AndroidStudioProjects/flutter_snack2/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
